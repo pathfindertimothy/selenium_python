@@ -3,7 +3,7 @@
 ## This project is a selenium automation test using python
 
 ## The following folders are present in the project
-- A <mark>drivers</mark> folder containing a chromedrive for windows os
+- A <mark>drivers</mark> folder containing a chromedriver for windows os
 - A <mark>pom</mark> folder containing page object code since the test used page object structure or model
 - A <mark>screenshot</mark> folder containing captured screenshot of the test
 - A <mark>video</mark> folder containing a recorded video of the running automation
