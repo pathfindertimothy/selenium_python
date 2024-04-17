@@ -18,4 +18,4 @@
 - Or Use: <mark>pytest search_test.py</mark>
 
 ## Gift File
-- https://github.com/pathfindertimothy/selenium_python/blob/main/video/gif_recording.gif
+- ![](https://github.com/pathfindertimothy/selenium_python/blob/main/video/gif_recording.gif)
