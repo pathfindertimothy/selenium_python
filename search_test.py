@@ -37,5 +37,3 @@ def test_open_streamer(driver):
     search_page.scroll_amount(2)
     search_page.click_on_streamer()
     search_page.save_item_screenshot('./screenshot/streamer_image.png')
-
-# to run pytest use: python3 -m pytest
